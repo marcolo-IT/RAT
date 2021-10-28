@@ -1,4 +1,4 @@
-# Remote Access Trojan ![spotify-16](https://user-images.githubusercontent.com/81070073/139212990-474fa309-b2e4-4b90-a04e-43934048f2e5.png)
+# Remote Access Trojan ![spotify-32](https://user-images.githubusercontent.com/81070073/139213113-bf304e3e-e824-4944-bd65-433522572dd4.png)
 
 Inside this repository, there are five scripts.
 
