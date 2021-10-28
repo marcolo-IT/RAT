@@ -25,6 +25,8 @@ attacker.py has a few custom functionalities besides the commands that already e
     
 This gif demonstrates the basics of what the attacker can do after the victim executes the malware and connects to the attacker's server. In this example, the attacker viewed the content of a directory, uploaded a file, and read the content of a file. The possibility and combination of attack is limitless.
 
+On the other hand, the victim will not see the attack happening since -noconsole was used while compiling with Pyinstaller. The only thing that might draw suspicion is when the program asks for administration rights, but since the program name is already disguised to be a trustworthy name, the victim would most likely just let it run as admin.
+   
 # Packaging
 
    
