@@ -24,8 +24,12 @@ attacker.py has a few custom functionalities besides the commands that already e
 
     
 This gif demonstrates the basics of what the attacker can do after the victim executes the malware and connects to the attacker's server. In this example, the attacker viewed the content of a directory, uploaded a file, and read the content of a file. The possibility and combination of attack is limitless.
+
 # Packaging
 
+![spotify-16](https://user-images.githubusercontent.com/81070073/139212990-474fa309-b2e4-4b90-a04e-43934048f2e5.png)
+
+   
 I have also packaged the malware with a legitimate Spotify Installer and a fake Spotify logo icon to show a plausible attack example.
 There are four files inside.
 - Spotify.exe is the finalized trojan
