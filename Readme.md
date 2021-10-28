@@ -23,8 +23,7 @@ attacker.py has a few custom functionalities besides the commands that already e
 ![RAT](https://user-images.githubusercontent.com/81070073/139211842-1094cbe0-649f-4ceb-a081-d20c510cc77f.gif)
 
     
-This gif demonstrates the basics of what the attacker can do after the victim executes the malware and connects to the attacker's server. 
-
+This gif demonstrates the basics of what the attacker can do after the victim executes the malware and connects to the attacker's server. In this example, the attacker viewed the content of a directory, uploaded a file, and read the content of a file. The possibility and combination of attack is limitless.
 # Packaging
 
 I have also packaged the malware with a legitimate Spotify Installer and a fake Spotify logo icon to show a plausible attack example.
